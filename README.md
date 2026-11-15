@@ -1,16 +1,4 @@
-<div align="center">
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="100%" style="width:100%;" valign="middle" align="center">
-<p align="center">
-
-</p>
-</td>
-</tr>
-</table>
-
-</div>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="banner" width="100%"/>
 
 <h2><code>$ tail -n 7 /var/log/build.log</code></h2>
 
