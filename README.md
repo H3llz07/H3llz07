@@ -4,7 +4,7 @@
 <tr>
 <td width="100%" style="width:100%;" valign="middle" align="center">
 <p align="center">
-<img src="https://www.gitskins.com/api/section/system-scan?username=h3llz07&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F114276463%3Fu%3D24a965baf57d3af1ce14235df488971f3ee996fe%26v%3D4&v=showcase-system-scan-2" alt="Julián Santiago Pico Pinzón system-scan visual" />
+
 </p>
 </td>
 </tr>
@@ -106,7 +106,6 @@
 <h2><code>$ git log --graph --all</code></h2>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=h3llz07&theme=github-dark&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F114276463%3Fu%3D24a965baf57d3af1ce14235df488971f3ee996fe%26v%3D4&v=showcase-heatmap-3" alt="Julián Santiago Pico Pinzón heatmap visual" />
 </p>
 
 <h2><code>$ ssh h3llz07@github</code></h2>
