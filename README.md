@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=850
+&height=70&lines=Hi!+I'm+Julian+Santiago+Pico+Pinzon" width="100%" alt="Animated introduction with four rotating messages"/>
+  
+</div>
+
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="banner" width="100%"/>
 
 <h2><code>$ tail -n 7 /var/log/build.log</code></h2>
@@ -94,6 +102,11 @@
 <h2><code>$ git log --graph --all</code></h2>
 
 <p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </p>
 
 <h2><code>$ ssh h3llz07@github</code></h2>
