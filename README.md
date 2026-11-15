@@ -1,3 +1,5 @@
+### `~ $ whoami`
+
 <p align="center">
   <img src="./header.svg" alt="Julián Santiago Pico RPG Profile Header" width="100%"/>
 </p>
